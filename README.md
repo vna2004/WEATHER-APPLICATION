@@ -42,4 +42,9 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+##Output :
+
+![Image](https://github.com/user-attachments/assets/ee327501-0357-4766-94df-88c2f03fd687)
+
+
 ##Conclusion: The React Weather App is a testament to how a simple yet thoughtfully designed application can transform the way users interact with weather data. Its clean architecture, efficient state management, and engaging UI make it both practical and delightful to use. Perfect for anyone seeking real-time weather updates, this app exemplifies the power of React in building dynamic and responsive applications.
